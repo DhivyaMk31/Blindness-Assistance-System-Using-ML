@@ -1,0 +1,8 @@
+org.opencv.test.openCVLibrary3416-androidTest-0 C:\Users\dhivy\Downloads\realtime_object_detection-main\realtime_object_detection-main\openCVLibrary3416\build\generated\res\resValues\androidTest\debug
+org.opencv.test.openCVLibrary3416-androidTest-1 C:\Users\dhivy\Downloads\realtime_object_detection-main\realtime_object_detection-main\openCVLibrary3416\build\generated\res\rs\androidTest\debug
+org.opencv.test.openCVLibrary3416-mergeDebugAndroidTestResources-2 C:\Users\dhivy\Downloads\realtime_object_detection-main\realtime_object_detection-main\openCVLibrary3416\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+org.opencv.test.openCVLibrary3416-mergeDebugAndroidTestResources-3 C:\Users\dhivy\Downloads\realtime_object_detection-main\realtime_object_detection-main\openCVLibrary3416\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+org.opencv.test.openCVLibrary3416-merged_res-4 C:\Users\dhivy\Downloads\realtime_object_detection-main\realtime_object_detection-main\openCVLibrary3416\build\intermediates\merged_res\debugAndroidTest
+org.opencv.test.openCVLibrary3416-packaged_res-5 C:\Users\dhivy\Downloads\realtime_object_detection-main\realtime_object_detection-main\openCVLibrary3416\build\intermediates\packaged_res\debug
+org.opencv.test.openCVLibrary3416-androidTest-6 C:\Users\dhivy\Downloads\realtime_object_detection-main\realtime_object_detection-main\openCVLibrary3416\src\androidTest\res
+org.opencv.test.openCVLibrary3416-androidTestDebug-7 C:\Users\dhivy\Downloads\realtime_object_detection-main\realtime_object_detection-main\openCVLibrary3416\src\androidTestDebug\res

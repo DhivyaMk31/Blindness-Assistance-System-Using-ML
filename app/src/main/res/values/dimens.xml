@@ -1,0 +1,5 @@
+<!-- res/values/dimens.xml -->
+<resources>
+    <dimen name="text_size">24dp</dimen>
+    <dimen name="stroke_width">2dp</dimen>
+</resources>
