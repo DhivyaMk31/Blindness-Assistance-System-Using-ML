@@ -6,4 +6,5 @@
     <string name="retry_button_desc">RETRY BUTTON</string>
     <string name="LOD_button_desc">Live Object Detection Button</string>
     <string name="image_to_text_button_desc">Image to Text Button</string>
+    <string name="community_chat_button_desc">Community chat</string>
 </resources>

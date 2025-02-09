@@ -10,6 +10,8 @@
         android:required="true" />
     <uses-feature android:name="android.hardware.camera.autofocus" />
 
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -32,7 +34,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.programminghut.realtime_object.LiveObjectDetectionActivity" />
+        <activity android:name="com.programminghut.realtime_object.LiveObjectDetectionActivity" android:label = "Live Object Detection"/>
+        <activity android:name="com.programminghut.realtime_object.CommunityActivity" android:label = "Nearby people"/>
     </application>
 
 </manifest>

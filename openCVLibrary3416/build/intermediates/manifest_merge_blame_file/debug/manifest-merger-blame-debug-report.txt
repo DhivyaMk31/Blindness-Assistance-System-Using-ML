@@ -5,10 +5,10 @@
 5    android:versionName="3.4.16" >
 6
 7    <uses-sdk
-7-->C:\Users\Mohamed Bilal D\Downloads\realtime_object_detection-main\realtime_object_detection-main\openCVLibrary3416\java\AndroidManifest.xml:7:5-73
+7-->C:\Users\Mohamed Bilal D\Downloads\Blindness-Assistance-System-Using-ML\realtime_object_detection-main\openCVLibrary3416\java\AndroidManifest.xml:7:5-73
 8        android:minSdkVersion="14"
-8-->C:\Users\Mohamed Bilal D\Downloads\realtime_object_detection-main\realtime_object_detection-main\openCVLibrary3416\java\AndroidManifest.xml:7:15-40
-9        android:targetSdkVersion="21" />
-9-->C:\Users\Mohamed Bilal D\Downloads\realtime_object_detection-main\realtime_object_detection-main\openCVLibrary3416\java\AndroidManifest.xml:7:41-70
+8-->C:\Users\Mohamed Bilal D\Downloads\Blindness-Assistance-System-Using-ML\realtime_object_detection-main\openCVLibrary3416\java\AndroidManifest.xml:7:15-40
+9        android:targetSdkVersion="14" />
+9-->C:\Users\Mohamed Bilal D\Downloads\Blindness-Assistance-System-Using-ML\realtime_object_detection-main\openCVLibrary3416\java\AndroidManifest.xml:7:41-70
 10
 11</manifest>
