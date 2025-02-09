@@ -12,6 +12,7 @@ class MainActivity: AppCompatActivity() {
 
         val liveObjectDetectionButton = findViewById<Button>(R.id.button_live_object_detection)
         val imageToTextButton = findViewById<Button>(R.id.button_image_to_text)
+        val communityButton = findViewById<Button>(R.id.button_community_chat)
 
         liveObjectDetectionButton.setOnClickListener {
             startActivity(Intent(this, LiveObjectDetectionActivity::class.java))
@@ -19,6 +20,10 @@ class MainActivity: AppCompatActivity() {
 
         imageToTextButton.setOnClickListener {
             startActivity(Intent(this, CameraActivity::class.java))
+        }
+
+        communityButton.setOnClickListener {
+            startActivity(Intent(this, CommunityActivity::class.java))
         }
     }
 }

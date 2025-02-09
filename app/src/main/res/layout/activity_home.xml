@@ -24,4 +24,13 @@
         android:contentDescription="@string/image_to_text_button_desc"
         android:textSize = "30sp" />
 
+    <Button
+        android:id="@+id/button_community_chat"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Community"
+        android:contentDescription="@string/community_chat_button_desc"
+        android:textSize = "30sp" />
+
 </LinearLayout>

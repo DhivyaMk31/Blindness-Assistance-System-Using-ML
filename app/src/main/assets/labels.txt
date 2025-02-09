@@ -29,6 +29,8 @@ umbrella
 ???
 ???
 handbag
+watch
+fan
 tie
 suitcase
 frisbee
@@ -65,16 +67,20 @@ potted plant
 bed
 ???
 dining table
+bench
 ???
 ???
 toilet
 ???
 tv
 laptop
+monitor
+cpu
 mouse
 remote
 keyboard
 cell phone
+headphones
 microwave
 oven
 toaster
@@ -88,3 +94,8 @@ scissors
 teddy bear
 hair drier
 toothbrush
+tube light
+board
+spectacles
+smart board
+ID card
